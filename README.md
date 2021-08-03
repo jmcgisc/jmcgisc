@@ -1,7 +1,7 @@
 <h2> Hi there 👋,  I'm José Manuel Carreiro Galicia!🤘🏻
 </br>Senior Mobile Developer 
 
-</br> CEO at <a href="https://www.buceapp.com/">BuceApp</a>
+</br> CEO at <a href="https://buceapp.com/">BuceApp</a>
 </br> &   <a href="https://www.buildingbridges.com.mx/">Building Bridges</a>
 </em></p>
 [![Linkedin: JoseManuelCarreiroGalicia](https://img.shields.io/badge/-ManuelCarreiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuelcarreirogalicia//)](https://www.linkedin.com/in/manuelcarreirogalicia/)
