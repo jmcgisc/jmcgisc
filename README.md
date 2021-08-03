@@ -7,7 +7,6 @@
 [![Linkedin: JoseManuelCarreiroGalicia](https://img.shields.io/badge/-ManuelCarreiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuelcarreirogalicia//)](https://www.linkedin.com/in/manuelcarreirogalicia/)
 <br/>
 
-
 ```javascript
 const joseManuel = {
 const aboutMe = { 
@@ -24,6 +23,7 @@ const aboutMe = {
       frontEnd: {
          js: ["JS", "React", "Redux"],
          css: ["Tailwind CSS", "Material Design", "Bootstrap"]
+         php: ["WordPress"]
       },
       testing: ["XCTest", "Jest", "JUnit"]
    }
